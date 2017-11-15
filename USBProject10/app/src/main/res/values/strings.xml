@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">USBProject10</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="DeviceName">Device Name</string>
+    <string name="VendorId">VendorId</string>
+    <string name="ProductId">ProductId</string>
+    <string name="GetDevice">Get Device</string>
+    <string name="SendData">Send Data</string>
+</resources>
